@@ -1,6 +1,6 @@
 # <p align="center">Animation_using_C</p>
-</br><h3 align= "left">A man walking with an umbrella on a rainy day ⛈🌈☔🚶‍♂️</h3> 
-<p align="center"><img src="https://media.giphy.com/media/MS0az8du4jir6/giphy.gif" width="450px" /></p>
+<h3 align= "left">A man walking with an umbrella on a rainy day ⛈🌈☔🚶‍♂️</h3> 
+</br><p align="center"><img src="https://media.giphy.com/media/MS0az8du4jir6/giphy.gif" width="450px" /></p>
 
 
 ### </br>Demo
