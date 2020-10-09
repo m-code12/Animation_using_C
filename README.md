@@ -5,7 +5,7 @@
 
 ### </br>Demo
 
-<p align="center"><img src="https://user-images.githubusercontent.com/53649201/95580868-af088080-0a55-11eb-8fa8-b4873ed931f6.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/53649201/95620677-2f4ad800-0a8e-11eb-88d4-c18eda64fc99.gif"></p>
 
 
 
