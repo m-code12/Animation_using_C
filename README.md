@@ -1,5 +1,5 @@
 # Animation_using_C
-<img align="center" src="https://media.giphy.com/media/MS0az8du4jir6/giphy.gif" width="450px" />
+<img align="right" src="https://media.giphy.com/media/MS0az8du4jir6/giphy.gif" width="450px" />
 
 
 ## Demo
