@@ -1,5 +1,6 @@
 # Animation_using_C
-<img align="right" src="https://media.giphy.com/media/MS0az8du4jir6/giphy.gif" width="450px" />
+><h3 align= "center">A man walking with an umbrella on a rainy day</h3> 
+<p align="center"><img src="https://media.giphy.com/media/MS0az8du4jir6/giphy.gif" width="450px" /></p>
 
 
 ## Demo
