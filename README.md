@@ -1,10 +1,11 @@
 # Animation_using_C
-<img src="https://media.giphy.com/media/MS0az8du4jir6/giphy.gif" align="center" width="500">
+<img src="https://media.giphy.com/media/MS0az8du4jir6/giphy.gif" align="center" width="450">
 
 
 ## Demo
 
-![demo](https://user-images.githubusercontent.com/53649201/95579335-1113b680-0a53-11eb-8780-9881e0d6c7a0.gif)
+![demo-min](https://user-images.githubusercontent.com/53649201/95579809-e6762d80-0a53-11eb-960c-57a5c51acaa2.gif)
+
 
 
 
